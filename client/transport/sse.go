@@ -15,8 +15,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/util"
+	"github.com/ComingCL/mcp-go/mcp"
+	"github.com/ComingCL/mcp-go/util"
 )
 
 // SSE implements the transport layer of the MCP protocol using Server-Sent Events (SSE).

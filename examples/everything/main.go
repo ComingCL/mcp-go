@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/server"
+	"github.com/ComingCL/mcp-go/mcp"
+	"github.com/ComingCL/mcp-go/server"
 )
 
 type ToolName string

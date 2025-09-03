@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/mark3labs/mcp-go/client/transport"
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/ComingCL/mcp-go/client/transport"
+	"github.com/ComingCL/mcp-go/mcp"
 )
 
 // mockSamplingHandler implements SamplingHandler for testing
